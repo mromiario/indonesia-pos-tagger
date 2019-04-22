@@ -1,5 +1,5 @@
 # indonesia-pos-tagger
-<p>Building Indonesia POS Tagger by three different methos. There are baseline, statistic, and sequence approach.
+<p>Building Indonesia POS Tagger by three different methods. There are baseline, statistic, and sequence approach.
 The trained dataset used is the corps of POSTag which can be downloaded from http://bahasa.cs.ui.ac.id/postag/corpus. In the construction of training data, the first 1000 sentences are used, and the next 20 sentences are as test sentences.
 
 <b>Baseline</b>
